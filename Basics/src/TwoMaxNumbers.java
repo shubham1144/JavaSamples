@@ -10,7 +10,7 @@ public class TwoMaxNumbers {
     public static void main(String args[]) {
 
         System.out.println("Executing function to find two highest numbers in a array");
-        int[] numbers = {1,2,3,5,89,56};
+        int[] numbers = {1,2,3,5333,89,56};
         FindTwoHighestNumbers(numbers);
 
     }
